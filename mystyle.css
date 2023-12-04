@@ -1,0 +1,56 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:rgb(73, 69, 64);
+  }
+  
+
+  #header{
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+
+  }
+  form {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 8px;
+    width: 300px;
+   
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    
+    
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    text-align: center;
+    
+  ;
+    
+  }
+  
+  input[type="submit"] {
+    background-color:tomato;
+      box-shadow: gray;
+      border-radius: 2%;
+    border: none;
+    
+  }
+ 
